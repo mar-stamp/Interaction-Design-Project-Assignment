@@ -87,6 +87,8 @@ o	Σχέση: φωνητική σχέση με το χρήστη. Αφού ο χ
 
 # 3rd Deliverable 
 
+step 6 and step 7: Θα βρείτε φωτογραφίες για το storyboard και το πρωτότυπο ως φακέλους στο our report.
+
 
 # Conclusions
 
